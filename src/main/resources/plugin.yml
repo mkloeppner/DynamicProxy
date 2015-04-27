@@ -1,0 +1,4 @@
+name: DynamicProxy
+main: com.mkloeppner.DynamicProxy
+version: 0.1.0
+author: mkloeppner
